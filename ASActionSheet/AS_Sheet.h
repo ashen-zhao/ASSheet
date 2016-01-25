@@ -11,6 +11,8 @@
 @interface AS_Sheet : UIView
 
 @property (nonatomic, copy) void (^Click)(NSInteger clickIndex);
+
 - (instancetype)initWithFrame:(CGRect)frame titleArr:(NSArray *)titleArr;
 - (void)hiddenSheet;
+
 @end
