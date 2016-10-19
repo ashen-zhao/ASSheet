@@ -2,8 +2,9 @@
 
 ###效果图
 
-![ASSheet](https://github.com/Ashen-Zhao/ASSheet/blob/master/ASActionSheet/result.gif)  
-
+![ASSheet](https://github.com/Ashen-Zhao/ASSheet/blob/master/ASActionSheet/ASSheetAlert.swift)  
+### swift版本 
+[swift版本地址](https://github.com/Ashen-Zhao/ASSheet/blob/master/ASActionSheet/result.gif)  
 ###使用说明  
 
 <pre> <code> 
